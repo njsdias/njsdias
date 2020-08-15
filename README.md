@@ -33,6 +33,9 @@ If you have any addtional question reach me in
 
 <code><img height="20" src="https://img.shields.io/badge/-Python-lightgray?style=flat-square&logo=python&link"></code>
 
+
+<code><img height="20" src="https://img.shields.io/badge/-Rstudio-yellow?style=flat-square&logo=rstudio&link"></code>
+
 <!--
 **njsdias/njsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
