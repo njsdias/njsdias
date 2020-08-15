@@ -46,11 +46,12 @@ If you have any addtional question reach me in
 
 [![MySQL](https://img.shields.io/badge/-MySQL-F39C12?style=flat-square&logo=MySQL&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
+https://img.shields.io/static/v1?label=AWS&message=AWS&color=F39C12&style=plastic&logo=#232F3E
 
 [![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
-[![AWS](https://img.shields.io/badge/-AWS-A3E4D7?style=flat-square&logo=#232F3E&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
+[![AWS](https://img.shields.io/static/v1?label=AWS&message=AWS&color=F39C12&style=plastic&logo=#232F3E&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 [![Pycharm](https://img.shields.io/badge/-Pycharm-A3E4D7?style=flat-square&logo=Pycharm&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 [![Windows](https://img.shields.io/badge/-Windows-A3E4D7?style=flat-square&logo=Windows&link=https://github.com/njsdias/)](https://github.com/njsdias/)
