@@ -1,17 +1,27 @@
 ### Hello. I'm Nuno.
 
 I'm Data Scientist with experience in problems related with time-series, geolocation and text mining.
+
 My curiosity takes me explore the state of the art of several ML models. 
-I'm very interested in problems that involves engineer, signal processing, anomaly detection, NLP and computer vision 
+
+I'm interested in problems that involves: 
+- engineer & IoT
+- signal processing
+- anomaly detection
+- NLP
+- computer vision 
 
 In my github you can find several courses related with: 
 - Fundaments of Machine Learning,
 - Deep Learning (NLP and Computer Vision), 
-- development of API's,
+- API's development,
 - Big Data using Spark and Scala 
 - develop tests using pytest.
 
-To be updated I'm always searching for the new tendencies. Due to this you can find in my Github courses about Tensorflow and Pytorch (Pyro).
+To be updated I'm always searching for the new frameworks and methodologies.
+Due to this you can find in my Github courses relaed wih 
+- Tensorflow 
+- Pytorch (Pyro).
 
 I hope you can find in my repository something usefull for you.
 
