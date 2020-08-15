@@ -49,7 +49,7 @@ If you have any addtional question reach me in
 
 [![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
-[![AWS](https://img.shields.io/badge/-#232F3E-A3E4D7?style=flat-square&logo=#232F3E&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![AWS](https://img.shields.io/badge/-AWS-A3E4D7?style=flat-square&logo=#232F3E&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 [![Pycharm](https://img.shields.io/badge/-Pycharm-A3E4D7?style=flat-square&logo=Pycharm&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
