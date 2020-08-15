@@ -48,7 +48,7 @@ If you have any addtional question reach me in
 
 [![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
-<a href="https://https://aws.amazon.com/"><img height="32" width="32" src="https://simpleicons.org/icons/amazonaws.svg"><span style="color:orange;"> <a href="https://www.jetbrains.com/pycharm/"><img height="32" width="32" src="https://simpleicons.org/icons/pycharm.svg">
+<a href="https://https://aws.amazon.com/"><img height="32" width="32" src="https://simpleicons.org/icons/amazonaws.svg"> <a href="https://www.jetbrains.com/pycharm/"><img height="32" width="32" src="https://simpleicons.org/icons/pycharm.svg">
 
 [![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&link=https://github.com/njsdias/)](https://github.com/njsdias/)
