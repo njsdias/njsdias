@@ -29,6 +29,9 @@ If you have any addtional question reach me in
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
 
+## Languages and Technologies that I worked so far
+
+<code><img height="20" src="https://img.shields.io/badge/-Python-lightgray?style=flat-square&logo=python&link"></code>
 
 <!--
 **njsdias/njsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
