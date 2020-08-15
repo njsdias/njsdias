@@ -44,7 +44,7 @@ If you have any addtional question reach me in
 [![Tableau](https://img.shields.io/badge/-Tableau-707B7C?style=flat-square&logo=Tableau&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 [![PowerBi](https://img.shields.io/badge/-PowerBi-707B7C?style=flat-square&logo=PowerBi&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-A93226?style=flat-square&logo=MySQL&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![MySQL](https://img.shields.io/badge/-MySQL-BB8FCE ?style=flat-square&logo=MySQL&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
 
