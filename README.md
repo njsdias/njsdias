@@ -4,8 +4,12 @@ I'm Data Scientist with experience in problems related with time-series, geoloca
 My curiosity takes me explore the state of the art of several ML models. 
 I'm very interested in problems that involves engineer, signal processing, anomaly detection, NLP and computer vision 
 
-In my github you can find several courses related with: Fundaments of Machine Learning, Deep Learning (NLP and Computer Vision), development of APi's,
-Big Data using Spark and Scala and develop tests using pytest.
+In my github you can find several courses related with: 
+- Fundaments of Machine Learning,
+- Deep Learning (NLP and Computer Vision), 
+- development of API's,
+- Big Data using Spark and Scala 
+- develop tests using pytest.
 
 To be updated I'm always searching for the new tendencies. Due to this you can find in my Github courses about Tensorflow and Pytorch (Pyro).
 
