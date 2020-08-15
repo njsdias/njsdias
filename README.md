@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello. I'm Nuno.
+
+You can find more about in 
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/njsdias/)
 
 <!--
 **njsdias/njsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
