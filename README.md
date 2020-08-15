@@ -1,8 +1,8 @@
 ### Hello. I'm Nuno.
 
-You can find more about in 
+Here you can find more abon 
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/)
+ Here [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) you can find more about me. 
 <!--
 **njsdias/njsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
