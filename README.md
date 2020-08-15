@@ -33,7 +33,7 @@ If you have any addtional question reach me in
 
 
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/njsdias/)](https://github.com/njsdias/)
-
+[![RStudio](https://img.shields.io/badge/-RStudio-afd0ea?style=flat-square&logo=Python&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
 
