@@ -33,7 +33,12 @@ If you have any addtional question reach me in
 
 
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/njsdias/)](https://github.com/njsdias/)
-[![RStudio](https://img.shields.io/badge/-RStudio-afd0ea?style=flat-square&logo=RStudio&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![RStudio](https://img.shields.io/badge/-RStudio-yellow?style=flat-square&logo=RStudio&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-yellow?style=flat-square&logo=Tensorflow&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![Pytorch](https://img.shields.io/badge/-Pytorch-yellow?style=flat-square&logo=Pytorch&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+
+
 
 
 
