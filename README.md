@@ -39,13 +39,9 @@ If you have any addtional question reach me in
 [![Pytorch](https://img.shields.io/badge/-Pytorch-afd0ea?style=flat-square&logo=Pytorch&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 [![Tableau](https://img.shields.io/badge/-Tableau-afd0ea?style=flat-square&logo=Tableau&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![PowerBI](https://img.shields.io/badge/-PowerBI-afd0ea?style=flat-square&logo=PowerBI&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
-
-<code><img height="20" src="https://img.shields.io/badge/-Python-lightgray?style=flat-square&logo=python&link"></code>
-
-
-<code><img height="20" src="https://img.shields.io/badge/-Rstudio-yellow?style=flat-square&logo=rstudio&link"></code>
 
 <!--
 **njsdias/njsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
