@@ -38,7 +38,7 @@ If you have any addtional question reach me in
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-afd0ea?style=flat-square&logo=Tensorflow&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 [![Pytorch](https://img.shields.io/badge/-Pytorch-afd0ea?style=flat-square&logo=Pytorch&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
-
+[![Tableau](https://img.shields.io/badge/-Tableau-afd0ea?style=flat-square&logo=Tableau&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
 
