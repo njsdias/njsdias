@@ -46,7 +46,7 @@ If you have any addtional question reach me in
 
 [![MySQL](https://img.shields.io/badge/-MySQL-BB8FCE?style=flat-square&logo=MySQL&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
-[![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://www.docker.com/resources/what-container)](https://www.docker.com/resources/what-container)
 
 <a href="https://https://aws.amazon.com/"><img height="32" width="32" src="https://simpleicons.org/icons/amazonaws.svg"> <a href="https://www.jetbrains.com/pycharm/"><img height="32" width="32" src="https://simpleicons.org/icons/pycharm.svg">
 
