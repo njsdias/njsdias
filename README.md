@@ -39,7 +39,7 @@ If you have any addtional question reach me in
 [![Pytorch](https://img.shields.io/badge/-Pytorch-afd0ea?style=flat-square&logo=Pytorch&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 [![Tableau](https://img.shields.io/badge/-Tableau-afd0ea?style=flat-square&logo=Tableau&link=https://github.com/njsdias/)](https://github.com/njsdias/)
-[![PowerBI](https://img.shields.io/badge/-PowerBI-afd0ea?style=flat-square&logo=PowerBI&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![Powerbi](https://img.shields.io/badge/-Powerbi-afd0ea?style=flat-square&logo=Powerbi&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
 
