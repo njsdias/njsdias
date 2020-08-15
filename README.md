@@ -42,7 +42,7 @@ If you have any addtional question reach me in
 [![Pytorch](https://img.shields.io/badge/-Pytorch-afd0ea?style=flat-square&logo=Pytorch&link=https://pytorch.org/)](https://pytorch.org/)
 
 [![Tableau](https://img.shields.io/badge/-Tableau-707B7C?style=flat-square&logo=Tableau&link=https://www.tableau.com/)](https://www.tableau.com/)
-[![PowerBI](https://img.shields.io/badge/-PowerBi-707B7C?style=flat-square&logo=PowerBi&link=https://powerbi.microsoft.com/)]https://powerbi.microsoft.com/)
+[![PowerBI](https://img.shields.io/badge/-PowerBi-707B7C?style=flat-square&logo=PowerBi&link=https://powerbi.microsoft.com/)](https://powerbi.microsoft.com/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-BB8FCE?style=flat-square&logo=MySQL&link=https://www.mysql.com/)](https://www.mysql.com/)
 
