@@ -51,7 +51,7 @@ If you have any addtional question reach me in
 [![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/bit.svg" />
 
 [![Pycharm](https://img.shields.io/badge/-Pycharm-A3E4D7?style=flat-square&logo=Pycharm&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
