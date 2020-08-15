@@ -27,7 +27,7 @@ I hope you can find in my repository something usefull for you.
 
 If you have any addtional question reach me in
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=0077B5&link)](https://www.linkedin.com/in/njsdias/) 
 
 ## Technologies that I worked so far
 
