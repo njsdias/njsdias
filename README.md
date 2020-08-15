@@ -29,7 +29,13 @@ If you have any addtional question reach me in
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
 
-## Languages and Technologies that I worked so far
+## Technologies that I worked so far
+
+
+[![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+
+
+
 
 <code><img height="20" src="https://img.shields.io/badge/-Python-lightgray?style=flat-square&logo=python&link"></code>
 
