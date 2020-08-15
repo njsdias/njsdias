@@ -51,7 +51,7 @@ https://img.shields.io/static/v1?label=AWS&message=AWS&color=F39C12&style=plasti
 [![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
-[![AWS](https://img.shields.io/static/v1?label=AWS&message=AWS&color=F39C12&style=plastic&logo=#232F3E]
+[![AWS](https://img.shields.io/static/v1?label=AWS&message=AWS&color=F39C12&style=plastic&logo=#232F3E](https://github.com/njsdias/)
 
 
 [![Pycharm](https://img.shields.io/badge/-Pycharm-A3E4D7?style=flat-square&logo=Pycharm&link=https://github.com/njsdias/)](https://github.com/njsdias/)
