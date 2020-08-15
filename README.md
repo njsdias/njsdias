@@ -35,7 +35,7 @@ If you have any addtional question reach me in
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 [![RStudio](https://img.shields.io/badge/-RStudio-yellow?style=flat-square&logo=RStudio&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 [![Scala](https://img.shields.io/badge/-Scala-yellow?style=flat-square&logo=Scala&link=https://github.com/njsdias/)](https://github.com/njsdias/)
-[![Spark](https://img.shields.io/badge/-Spark-yellow?style=flat-square&logo=Spark&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![PySpark](https://img.shields.io/badge/-PySpark-yellow?style=flat-square&logo=PySpark&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-afd0ea?style=flat-square&logo=Tensorflow&link=https://github.com/njsdias/)](https://github.com/njsdias/)
