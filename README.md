@@ -51,7 +51,7 @@ If you have any addtional question reach me in
 [![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
-[![bit](https://simpleicons.org/icons/bit.svg)](https://github.com/njsdias/)
+[![bit](<img height="32" width="32" src="https://simpleicons.org/icons/bit.svg" />)](https://github.com/njsdias/)
 
 <img height="32" width="32" src="https://simpleicons.org/icons/bit.svg" />
 
