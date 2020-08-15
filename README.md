@@ -44,18 +44,19 @@ If you have any addtional question reach me in
 [![Tableau](https://img.shields.io/badge/-Tableau-707B7C?style=flat-square&logo=Tableau&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 [![PowerBi](https://img.shields.io/badge/-PowerBi-707B7C?style=flat-square&logo=PowerBi&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-F39C12?style=flat-square&logo=MySQL&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![MySQL](https://img.shields.io/badge/-MySQL-A93226?style=flat-square&logo=MySQL&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
 
 [![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+
 <img height="32" width="32" src="https://simpleicons.org/icons/amazonaws.svg">
 
 
 [![Pycharm](https://img.shields.io/badge/-Pycharm-A3E4D7?style=flat-square&logo=Pycharm&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
-[![Windows](https://img.shields.io/badge/-Windows-A3E4D7?style=flat-square&logo=Windows&link=https://github.com/njsdias/)](https://github.com/njsdias/)
-[![Linux](https://img.shields.io/badge/-Linux-A3E4D7?style=flat-square&logo=Linux&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows&link=https://github.com/njsdias/)](https://github.com/njsdias/)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&link=https://github.com/njsdias/)](https://github.com/njsdias/)
 
 
 <!--
