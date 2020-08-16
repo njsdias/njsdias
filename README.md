@@ -23,7 +23,7 @@ Due to this you can find in my Github courses related wih:
 - Tensorflow, 
 - Pytorch (Pyro).
 
-I hope you can find in my repository something usefull for you.
+I hope you can find something usefull for you in my repository.
 
 If you have any addtional question reach me in
 
