@@ -34,7 +34,8 @@ If you have any addtional question reach me in
 <p align="center">
 <a href="https://www.python.org/"><img height="60" width="180" src="https://seeklogo.com/images/P/python-logo-AE8E0705F6-seeklogo.com.png">
 <a href="https://rstudio.com/"><img height="75" width="140" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
-<a href="https://rstudio.com/"><img height="75" width="140" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg">  
+<a href="https://www.scala.com/en"><img height="75" width="140" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg">    
+<a href="https://spark.apache.org/"><img height="75" width="140" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
   
   
 <p>&nbsp;</p>
