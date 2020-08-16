@@ -35,14 +35,13 @@ If you have any addtional question reach me in
 
 
 <a href="https://www.python.org/"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://rstudio.com/"><img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="python" width="100" height="100"/>
-
-<a href="https://rstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="python" width="40" height="40"/>
+<a href="https://rstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="python" width="70" height="70"/>
 
 
 <p>&nbsp;</p>
 
 <!--
+<a href="https://rstudio.com/"><img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="python" width="100" height="100"/>
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-yellow?style=flat-square&logo=RStudio&link=https://rstudio.com/)](https://rstudio.com/)
 [![Scala](https://img.shields.io/badge/-Scala-yellow?style=flat-square&logo=Scala&link=https://www.scala.com/en)](https://www.scala.com/en)
