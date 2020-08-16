@@ -47,8 +47,8 @@ If you have any addtional question reach me in
 <a href="https://www.docker.com/resources/what-container"><img height="95" width="160" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
 <a href="https://https://aws.amazon.com/"><img height="55" width="100" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> 
 <p align="center">
-<a href="https://ubuntu.com/"><img height="60" width="180" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
-<a href="https://www.microsoft.com/"><img height="85" width="115" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg"/>
+<a href="https://ubuntu.com/"><img height="75" width="180" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
+<a href="https://www.microsoft.com/"><img height="85" width="215" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg"/>
 <p>&nbsp;</p>
   
 <!--
