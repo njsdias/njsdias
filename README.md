@@ -25,7 +25,7 @@ Due to this you can find in my Github courses related wih:
 
 I hope you can find something usefull for you in my repository.
 
-If you have any addtional question reach me in <a href="https://www.linkedin.com/in/njsdias/"><img height="20px" width="20px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
+If you have any addtional question reach me in <a href="https://www.linkedin.com/in/njsdias/"><img position="relative" height="20px" width="20px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
 
 
 <!--
