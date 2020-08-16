@@ -39,7 +39,7 @@ If you have any addtional question reach me in
   
 <a href="https://rstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="python" width="70" height="70"/>
   
-<a href="https://vectorlogoseek.com/rstudio-vector-logo-svg/" width="50" height="50" target="_blank"><img src="https://vectorlogoseek.com/wp-content/uploads/2020/02/rstudio-vector-logo.png" /></a>
+<a href="https://vectorlogoseek.com/rstudio-vector-logo-svg/" target="_blank"><img src="https://vectorlogoseek.com/wp-content/uploads/2020/02/rstudio-vector-logo.png" width="50" height="50" /></a>
 
 
 <p>&nbsp;</p>
