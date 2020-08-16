@@ -34,7 +34,7 @@ If you have any addtional question reach me in
 <a href="https://rstudio.com/"><img height="50" width="180" src="https://seeklogo.com/images/P/python-logo-AE8E0705F6-seeklogo.com.png">
 
 
-<a href="https://rstudio.com/"><img height="50" width="50" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
+<a href="https://rstudio.com/"><img height="100" width="100" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
 
 
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
