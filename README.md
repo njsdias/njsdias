@@ -50,41 +50,44 @@ If you have any addtional question reach me in
 <a href="https://ubuntu.com/"><img height="125" width="300" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
 <a href="https://www.microsoft.com/"><img height="90" width="310" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg"/>
 <p>&nbsp;</p>
-
+  
+<!--
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-yellow?style=flat-square&logo=RStudio&link=https://rstudio.com/)](https://rstudio.com/)
 [![Scala](https://img.shields.io/badge/-Scala-yellow?style=flat-square&logo=Scala&link=https://www.scala.com/en)](https://www.scala.com/en)
 [![PySpark](https://img.shields.io/badge/-PySpark-yellow?style=flat-square&logo=PySpark&link=https://spark.apache.org/)](https://spark.apache.org/)
+-->
 
-
-
+<!--
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-afd0ea?style=flat-square&logo=Tensorflow&linkhttps://www.tensorflow.org/)](https://www.tensorflow.org/)
 [![Pytorch](https://img.shields.io/badge/-Pytorch-afd0ea?style=flat-square&logo=Pytorch&link=https://pytorch.org/)](https://pytorch.org/)
+-->
 
-
-
+<!--
 [![Tableau](https://img.shields.io/badge/-Tableau-707B7C?style=flat-square&logo=Tableau&link=https://www.tableau.com/)](https://www.tableau.com/)
 [![PowerBI](https://img.shields.io/badge/-PowerBi-707B7C?style=flat-square&logo=PowerBi&link=https://powerbi.microsoft.com/)](https://powerbi.microsoft.com/)
+-->
 
-
-
+<!--
 [![MySQL](https://img.shields.io/badge/-MySQL-BB8FCE?style=flat-square&logo=MySQL&link=https://www.mysql.com/)](https://www.mysql.com/)
 
-
-
+<!--
 [![Docker](https://img.shields.io/badge/-Docker-A3E4D7?style=flat-square&logo=Docker&link=https://www.docker.com/resources/what-container)](https://www.docker.com/resources/what-container)
+-->
 
-
+<!--
 <a href="https://www.docker.com/resources/what-container"><img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg">
-
+-->
+<!--
 <a href="https://https://aws.amazon.com/"><img height="32" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png"> 
-
+-->
+<!--
 <a href="https://https://aws.amazon.com/"><img height="32" width="32" src="https://simpleicons.org/icons/amazonaws.svg"> <a href="https://www.jetbrains.com/pycharm/"><img height="32" width="32" src="https://simpleicons.org/icons/pycharm.svg">
-
-
+-->
+<!--
 [![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows&link=https://www.microsoft.com/)](https://www.microsoft.com/)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&link=https://github.com/njsdias/)](https://github.com/njsdias/)
-
+-->
 
 <!--
 **njsdias/njsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
