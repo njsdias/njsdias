@@ -36,7 +36,7 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
 <a href="https://spark.apache.org/"><img height="85" width="115" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
 <p align="center">
 <a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-<a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+<a href="https://pytorch.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
 <p align="center">
 <a href="https://powerbi.microsoft.com/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">  
 <a href="https://www.tableau.com/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg">
