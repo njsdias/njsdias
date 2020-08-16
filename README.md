@@ -26,7 +26,12 @@ Due to this you can find in my Github courses related wih:
 I hope you can find something usefull for you in my repository.
 
 If you have any addtional question reach me in
+<a href="https://www.linkedin.com/in/njsdias/"><img height="60" width="180" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
+
+
+<!--
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
+-->
 
 ## Technologies that I worked so far
 <p align="center">
