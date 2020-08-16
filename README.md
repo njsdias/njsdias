@@ -31,7 +31,7 @@ If you have any addtional question reach me in
 
 ## Technologies that I worked so far
 
-<a href="https://rstudio.com/"><img height="35" width="35" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-horizontal.svg">
+<a href="https://rstudio.com/"><img height="35" width="35" src=https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-vertical.svg">
 
 
 <a href="https://rstudio.com/"><img height="50" width="50" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
