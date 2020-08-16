@@ -48,7 +48,7 @@ If you have any addtional question reach me in
 <a href="https://https://aws.amazon.com/"><img height="55" width="100" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> 
 <p align="center">
 <a href="https://www.microsoft.com/"><img height="70" width="250" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg">
-<a href="https://ubuntu.com/"><img height="200" width="260" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg">
+<a href="https://ubuntu.com/"><img height="200" width="160" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg">
 <p>&nbsp;</p>
 
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
