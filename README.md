@@ -25,7 +25,7 @@ Due to this you can find in my Github courses related wih:
 
 I hope you can find something usefull for you in my repository.
 
-If you have any addtional question reach me in <a href="https://www.linkedin.com/in/njsdias/"><img height="20" width="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
+If you have any addtional question reach me in <a href="https://www.linkedin.com/in/njsdias/"><img height="20px" width="20px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
 
 
 <!--
@@ -45,7 +45,7 @@ If you have any addtional question reach me in <a href="https://www.linkedin.com
 <a href="https://powerbi.microsoft.com/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">  
 <a href="https://www.tableau.com/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg">
 <p align="center">
-<a href="https://www.mysql.com/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg">
+<a href="https://www.jetbrains.com/pycharm"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg">
 <a href="https://www.mysql.com/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
 <p align="center">
 <a href="https://www.docker.com/resources/what-container"><img height="95" width="160" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
