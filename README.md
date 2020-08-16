@@ -42,7 +42,10 @@ If you have any addtional question reach me in
 <a href="https://www.tableau.com/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg">
 <p align="center">
 <a href="https://www.mysql.com/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
-  
+<p align="center">
+<a href="https://www.docker.com/resources/what-container"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+<a href="https://https://aws.amazon.com/"><img height="32" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/320px-Amazon_Web_Services_Logo.svg.png"> 
+
   
 <p>&nbsp;</p>
 
