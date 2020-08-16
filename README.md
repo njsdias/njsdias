@@ -48,7 +48,7 @@ If you have any addtional question reach me in
 <a href="https://https://aws.amazon.com/"><img height="55" width="100" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> 
 <p align="center">
 <a href="https://ubuntu.com/"><img height="75" width="180" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
-<a href="https://www.microsoft.com/"><img height="65" width="315" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg"/>
+<a href="https://www.microsoft.com/"><img height="65" width="255" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg"/>
 <p>&nbsp;</p>
   
 <!--
