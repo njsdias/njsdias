@@ -58,7 +58,7 @@ If you have any addtional question reach me in
 
 <a href="https://www.docker.com/resources/what-container"><img height="32" width="32" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg">
 
-<a href="https://https://aws.amazon.com/"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"> <a 
+<a href="https://https://aws.amazon.com/"><img height="32" width="50" src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"> 
 
 <a href="https://https://aws.amazon.com/"><img height="32" width="32" src="https://simpleicons.org/icons/amazonaws.svg"> <a href="https://www.jetbrains.com/pycharm/"><img height="32" width="32" src="https://simpleicons.org/icons/pycharm.svg">
 
