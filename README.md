@@ -41,7 +41,7 @@ If you have any addtional question reach me in
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <p>&nbsp;</p>
 
-<>[![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
+![![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-yellow?style=flat-square&logo=RStudio&link=https://rstudio.com/)](https://rstudio.com/)
 [![Scala](https://img.shields.io/badge/-Scala-yellow?style=flat-square&logo=Scala&link=https://www.scala.com/en)](https://www.scala.com/en)
 [![PySpark](https://img.shields.io/badge/-PySpark-yellow?style=flat-square&logo=PySpark&link=https://spark.apache.org/)](https://spark.apache.org/)
