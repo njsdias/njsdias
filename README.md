@@ -35,7 +35,7 @@ If you have any addtional question reach me in
 
 
 <a href="https://www.python.org/"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://rstudio.com/"><img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="python" width="40" height="40"/>
+<a href="https://rstudio.com/"><img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="python" width="100" height="100"/>
 
 
 <p>&nbsp;</p>
