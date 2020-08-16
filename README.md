@@ -32,7 +32,7 @@ If you have any addtional question reach me in
 ## Technologies that I worked so far
 <div>
 <p align="center">
-<a href="https://rstudio.com/"><img height="70" width="180" src="https://seeklogo.com/images/P/python-logo-AE8E0705F6-seeklogo.com.png">
+<a href="https://rstudio.com/"><img height="60" width="180" src="https://seeklogo.com/images/P/python-logo-AE8E0705F6-seeklogo.com.png">
 <a href="https://rstudio.com/"><img height="90" width="140" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
 <p>&nbsp;</p>
 
