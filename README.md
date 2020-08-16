@@ -25,9 +25,7 @@ Due to this you can find in my Github courses related wih:
 
 I hope you can find something usefull for you in my repository.
 
-If you have any addtional question reach me in 
-
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
+If you have any addtional question reach me in    [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
 
 
 ## Technologies that I worked so far
