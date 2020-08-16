@@ -34,7 +34,7 @@ If you have any addtional question reach me in
 <p align="center">
 
 
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="60" height="60"/>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="50" height="50"/>
 <a href="https://rstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="python" width="70" height="70"/>
 
 
