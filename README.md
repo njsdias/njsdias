@@ -31,6 +31,8 @@ If you have any addtional question reach me in
 
 ## Technologies that I worked so far
 
+<a href="https://rstudio.com/"><img height="32" width="32" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
+
 
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-yellow?style=flat-square&logo=RStudio&link=https://rstudio.com/)](https://rstudio.com/)
