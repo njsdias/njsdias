@@ -34,9 +34,9 @@ If you have any addtional question reach me in
 <p align="center">
 
   
-<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="50"/> 
+
 <a href="https://rstudio.com/"><img src=" https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" alt="python" width="80" height="50"/> 
-  
+<a href="https://www.scala.com/en"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg" alt="scala" width="80" height="50"/>
 
 
 
@@ -44,6 +44,7 @@ If you have any addtional question reach me in
 <p>&nbsp;</p>
 
 <!--
+<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="50"/> 
 <a href="https://www.scala.com/en/"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="50" height="50"/> 
 <a href="https://www.scala.com/en"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg" alt="scala" width="80" height="50"/>
 <a href="https://rstudio.com/"><img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg" alt="rstudio" width="50" height="50"/>
