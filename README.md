@@ -26,7 +26,6 @@ Due to this you can find in my Github courses related wih:
 I hope you can find something usefull for you in my repository.
 
 If you have any addtional question reach me in
-
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
 
 ## Technologies that I worked so far
@@ -38,6 +37,10 @@ If you have any addtional question reach me in
 <p align="center">
 <a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 <a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+<p align="center">
+<a href="(https://www.tableau.com/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg">
+
+  
 <p>&nbsp;</p>
 
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
