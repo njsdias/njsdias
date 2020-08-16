@@ -37,7 +37,7 @@ If you have any addtional question reach me in
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="50" height="50"/>
 <a href="https://www.scala.com/en/"><img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original.svg" alt="scala" width="50" height="50"/> 
 
-<a href="https://www.scala.com/en/"><img src="ttps://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="scala" width="50" height="50"/> 
+<a href="https://www.scala.com/en/"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="scala" width="50" height="50"/> 
   
 
   
