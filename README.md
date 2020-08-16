@@ -36,10 +36,12 @@ If you have any addtional question reach me in
 <a href="https://rstudio.com/"><img height="75" width="140" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
 <a href="https://www.scala.com/en"><img height="75" width="140" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg">    
 <a href="https://spark.apache.org/"><img height="85" width="115" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
-
-  
 <p>&nbsp;</p>
 
+<div>
+<p align="center">
+<a href="https://www.scala.com/en"><img height="75" width="140" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+<p>&nbsp;</p>
 
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&link=https://www.python.org/)](https://www.python.org/)
 [![RStudio](https://img.shields.io/badge/-RStudio-yellow?style=flat-square&logo=RStudio&link=https://rstudio.com/)](https://rstudio.com/)
