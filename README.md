@@ -19,7 +19,7 @@ In my github you can find several courses related with:
 - develop tests using pytest.
 
 To be updated I'm always searching for the new frameworks and methodologies.
-Due to this you can find in my Github courses relaed wih 
+Due to this you can find in my Github courses related wih: 
 - Tensorflow, 
 - Pytorch (Pyro).
 
