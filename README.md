@@ -37,6 +37,7 @@ If you have any addtional question reach me in
 <p align="center">
 <a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 <a href="https://www.tensorflow.org/"><img height="85" width="160" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+ <a href="(https://www.tableau.com/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg">
 <p align="center">
 <a href="(https://www.tableau.com/"><img height="85" width="160" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg">
 
