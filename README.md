@@ -60,6 +60,7 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
   Keras | [Keras](https://github.com/njsdias/DeepLearning/tree/master/Keras) with MNIS, Word Embeddings and RNN for Text Mining
   Tensorflow | [Tensor Board](https://github.com/njsdias/DeepLearning/tree/master/MLProj-tensorFlow/Intro)
   Pytorch| [Pytorch Recipes](https://github.com/njsdias/DeepLearning/tree/master/PyTorch/Pytorch_Recipes)
+  PySpark|(PySpark)[https://github.com/njsdias/MachineLearning/tree/master/PySpark]
   
   
 <!--
