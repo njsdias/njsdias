@@ -56,7 +56,7 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
   Subject| Repository
   -------|------
   NLP | [Deep Learning](https://github.com/njsdias/DeepLearning/tree/master/DeepLearningNLP)
-  TensorFlow | [Intro version 2] (https://github.com/njsdias/tensorflow_2) 
+  TensorFlow  v2| [Intro version 2](https://github.com/njsdias/tensorflow_2) 
   
   
 <!--
