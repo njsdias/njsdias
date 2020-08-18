@@ -55,7 +55,7 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
   
   Subject| Repository
   -------|------
-  NLP | Deep Learning]https://github.com/njsdias/DeepLearning/tree/master/DeepLearningNLP)
+  NLP | Deep Learning](https://github.com/njsdias/DeepLearning/tree/master/DeepLearningNLP)
   
   
 <!--
