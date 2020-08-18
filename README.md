@@ -57,6 +57,9 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
   -------|------
   NLP | [Deep Learning](https://github.com/njsdias/DeepLearning/tree/master/DeepLearningNLP)
   TensorFlow  v2| [Intro](https://github.com/njsdias/tensorflow_2) with supervised learning, esemble methods, NLP and deploy in production
+  Keras | [Keras](https://github.com/njsdias/DeepLearning/tree/master/Keras) with MNIS, Word Embeddings and RNN for Text Mining
+  Tensorflow | [Tensor Board](https://github.com/njsdias/DeepLearning/tree/master/MLProj-tensorFlow/Intro)
+  Pytorch| [Pytorch Recipes](https://github.com/njsdias/DeepLearning/tree/master/PyTorch/Pytorch_Recipes)
   
   
 <!--
