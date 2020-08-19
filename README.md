@@ -59,6 +59,7 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
   TensorFlow  v2| [Intro](https://github.com/njsdias/tensorflow_2) with supervised learning, esemble methods, NLP and deploy in production
   Keras | [Keras](https://github.com/njsdias/DeepLearning/tree/master/Keras) with MNIS, Word Embeddings and RNN for Text Mining
   Tensorflow | [Tensor Board](https://github.com/njsdias/DeepLearning/tree/master/MLProj-tensorFlow/Intro)
+  Pytorch Tutorial| [Tutorial](https://github.com/njsdias/pytorch-tutorial/tree/master/tutorials)
   Pytorch| [Pytorch Recipes](https://github.com/njsdias/DeepLearning/tree/master/PyTorch/Pytorch_Recipes)
   PySpark|[PySpark](https://github.com/njsdias/MachineLearning/tree/master/PySpark)
   Scala | [Scala Projects](https://github.com/njsdias/MachineLearning/tree/master/ScalaMLProjects)
