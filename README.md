@@ -64,7 +64,7 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
   Pytorch Tutorial| [Tutorial](https://github.com/njsdias/pytorch-tutorial/tree/master/tutorials)
   Pytorch| [Pytorch Recipes](https://github.com/njsdias/DeepLearning/tree/master/PyTorch/Pytorch_Recipes)
   PySpark|[PySpark](https://github.com/njsdias/MachineLearning/tree/master/PySpark)
-  Spark | [(Spark to Big Data](https://github.com/njsdias/ApacheSpark2-BigData)
+  Spark | [Spark to Big Data](https://github.com/njsdias/ApacheSpark2-BigData)
   Scala | [Scala Projects](https://github.com/njsdias/MachineLearning/tree/master/ScalaMLProjects)
   Api's | [Flask](https://github.com/njsdias/APIForDS)
   Tests using Python | [Pytest](https://github.com/njsdias/Pytest)
