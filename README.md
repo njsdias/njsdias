@@ -5,7 +5,7 @@ I'm Data Scientist with experience in problems related with time-series, geoloca
 My curiosity takes me explore the state of the art of several ML models. 
 
 I'm interested in problems that involves: 
-- engineer & IoT,
+- engineering & IoT,
 - signal processing,
 - anomaly detection,
 - NLP,
