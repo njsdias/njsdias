@@ -58,7 +58,7 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
   Machine Learning | [ML Solutions](https://github.com/njsdias/ml_approaches)
   Time Series with DL | [Time Series](https://github.com/njsdias/TimeSeries)
   NLP | [Deep Learning](https://github.com/njsdias/DeepLearning/tree/master/DeepLearningNLP)
-  TensorFlow  v2| [Intro](https://github.com/njsdias/tensorflow_2) with supervised learning, esemble methods, NLP and deploy in production
+  TensorFlow  v2| [Intro](https://github.com/njsdias/tensorflow_2) with supervised learning, ensemble methods, NLP and deploy in production
   Keras | [Keras](https://github.com/njsdias/DeepLearning/tree/master/Keras) with MNIS, Word Embeddings and RNN for Text Mining
   Tensorflow | [Tensor Board](https://github.com/njsdias/DeepLearning/tree/master/MLProj-tensorFlow/Intro)
   Pytorch Tutorial| [Tutorial](https://github.com/njsdias/pytorch-tutorial/tree/master/tutorials)
