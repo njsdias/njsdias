@@ -1,6 +1,6 @@
 ### Hello. I'm Nuno.
 
-I'm Data Scientist with experience in problems related with time-series, geolocation and text mining.
+I'm a Data Scientist with experience in problems that involve time-series, geolocation and text mining.
 
 My curiosity takes me explore the state of the art of several ML models. 
 
@@ -18,17 +18,16 @@ In my github you can find several courses related with:
 - Big Data using Spark and Scala, 
 - develop tests using pytest.
 
-To be updated I'm always searching for the new frameworks and methodologies.
-Due to this you can find in my Github courses related with: 
+To keep up to date, I'm always searching for the new frameworks and methodologies.
 - Tensorflow, 
 - Pytorch (Pyro).
 
 I hope you can find something usefull for you in my repository.
 
-If you have any addtional question reach me in    [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
+Addtional question connect with me on    [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
 
 
-## Technologies that I worked so far
+## Technologies that I've worked with
 <p align="center">
 <a href="https://www.python.org/"><img height="60" width="180" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
 <a href="https://rstudio.com/"><img height="75" width="140" src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo.svg">
@@ -51,7 +50,7 @@ If you have any addtional question reach me in    [![LinkedIn](https://img.shiel
 <a href="https://www.microsoft.com/"><img height="65" width="255" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg"/>
 <p>&nbsp;</p>
   
-  # Find easily what you want
+  # Easily find what you want
   
   Subject| Repository
   -------|------
