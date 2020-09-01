@@ -24,7 +24,7 @@ To keep up to date, I'm always searching for the new frameworks and methodologie
 
 I hope you can find something usefull for you in my repository.
 
-Addtional question connect with me on    [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
+If you have any question, please send me a message in [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&link)](https://www.linkedin.com/in/njsdias/) 
 
 
 ## Technologies that I've worked with
