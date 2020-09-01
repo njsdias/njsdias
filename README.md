@@ -4,7 +4,7 @@ I'm a Data Scientist with experience in problems that involve time-series, geolo
 
 My curiosity takes me explore the state of the art of several ML models. 
 
-I'm interested in problems that involves: 
+I'm interested in problems that involve: 
 - engineering & IoT,
 - signal processing,
 - anomaly detection,
