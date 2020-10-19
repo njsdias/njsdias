@@ -71,7 +71,7 @@ If you have any question, please send me a message in [![LinkedIn](https://img.s
   Automated tests | [Tests with Python](https://github.com/njsdias/automated_sw_test_python)
   Streamlit | [How to show model results](https://github.com/njsdias/ML_streamlit)
   ML Deploy | [How to deploy your ML model](https://github.com/njsdias/ML_Deploy)
-  Databases | [MySQL](https://github.com/njsdias/databases/tree/main/sql/crash_course_sql)
+  Databases | [MySQL](https://github.com/njsdias/databases/tree/main/sql/crash_course_sql), [SQLite](https://github.com/njsdias/databases/tree/main/sqlite)
   
   
 <!--
