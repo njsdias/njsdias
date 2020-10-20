@@ -48,7 +48,7 @@ If you have any question, please send me a message in [![LinkedIn](https://img.s
 <p align="center">
 <a href="https://ubuntu.com/"><img height="75" width="180" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
 <a href="https://www.microsoft.com/"><img height="65" width="255" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg"/>
-<a href="https://distrowatch.com/"><img height="65" width="255" src="https://marcas-logos.net/wp-content/uploads/2020/03/LINUX-LOGO.png"/>
+<a href="https://distrowatch.com/"><img height="65" width="255" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png"/>
 <p>&nbsp;</p>
   
   # Easily find what you want
